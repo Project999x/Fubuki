@@ -40,7 +40,7 @@ FORCE_PIC = os.environ.get("FORCE_PIC", "https://envs.sh/rSP.jpg")
 
 #text
 HELP_TXT = "<b>Hi Dude!\n\nTo use this bot you just have to join both channels that's it..\nWatch Tutorial to open Link - <a href=https://t.me/+ZLu08PF-JUIzMjFl>Clickhere</a></b>"
-ABOUT_TXT = "<b><i>About Us..\n\n‣ Made for : <a href=https://t.me/+sOF6oYv8MPVmOGQ1>ClickHere</a>\n‣ Owned by : @Whitebeard_Sama\n‣ Maintained by : @Karasu_07\n‣ Developed by : @Shirohige_Animes\n\n Adios !!</i></b>"
+ABOUT_TXT = "<b><i>About Us..\n\n‣ Made for : <a href=https://t.me/+sOF6oYv8MPVmOGQ1>ClickHere</a>\n‣ Owned by : @Whitebeard_Sama\n‣ Maintained by : @Whitebeard_Sama\n‣ Developed by : @Shirohige_Animes\n\n Adios !!</i></b>"
 SHORT_MSG = "Your Link is down here click on Short URL.."
 
 #start message
@@ -65,8 +65,8 @@ PROTECT_CONTENT = True if os.environ.get('PROTECT_CONTENT', "False") == "True" e
 DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True'
 
 #Short Url or Api
-SHORT_URL = os.environ.get("SHORTNER_URL", "shortxlinks.com")
-SHORT_API = os.environ.get("SHORTNER_API", "a1a273743377a90c8ac73babb61b2b31a81e6416")
+SHORT_URL = os.environ.get("SHORTNER_URL", "earn4link.in")
+SHORT_API = os.environ.get("SHORTNER_API", "79d3561b0302c95142e4c78395b4c0b798f58f4f")
 
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
 USER_REPLY_TEXT = "Pʟᴇᴀꜱᴇ ᴅᴏɴ'ᴛ ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴅɪʀᴇᴄᴛʟʏ ɪ ᴀᴍ ᴏɴʟʏ ᴡᴏʀᴋ ꜰᴏʀ - @Shirohige_Animes"
