@@ -100,5 +100,3 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
 def LOGGER(name: str) -> logging.Logger:
     return logging.getLogger(name)
-
-#Bhen ke lavdo Credit hataya na ma choddunga wahi aakr salo use karo bas 
