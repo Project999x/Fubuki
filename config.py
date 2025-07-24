@@ -39,7 +39,7 @@ START_PIC = os.environ.get("START_PIC", "https://envs.sh/rSi.jpg")
 FORCE_PIC = os.environ.get("FORCE_PIC", "https://envs.sh/rSP.jpg")
 
 #text
-HELP_TXT = "<b>Hi Dude!\n\nTo use this bot you just have to join both channels that's it..\nWatch Tutorial to open Link - <a href=https://t.me/+ZLu08PF-JUIzMjFl>Clickhere</a></b>"
+HELP_TXT = "<b>Hi Dude!\n\nTo use this bot you just have to join both channels that's it..\nWatch Tutorial to open Link - <a href=https://t.me/+U0VrY0xSdh5iOTA9>Clickhere</a></b>"
 ABOUT_TXT = "<b><i>About Us..\n\n‣ Made for : <a href=https://t.me/+sOF6oYv8MPVmOGQ1>ClickHere</a>\n‣ Owned by : @Whitebeard_Sama\n‣ Maintained by : @Whitebeard_Sama\n‣ Developed by : @Shirohige_Animes\n\n Adios !!</i></b>"
 SHORT_MSG = "Your Link is down here click on Short URL.."
 
